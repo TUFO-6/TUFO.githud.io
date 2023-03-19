@@ -65,6 +65,15 @@
   </url>
   
   <url>
+    <loc>https://www.fomal.cc/life/music/index.html</loc>
+    
+    <lastmod>2023-03-07</lastmod>
+    
+    <changefreq>monthly</changefreq>
+    <priority>0.6</priority>
+  </url>
+  
+  <url>
     <loc>https://www.fomal.cc/life/movies/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
@@ -83,15 +92,6 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/personal/love/index.html</loc>
-    
-    <lastmod>2023-03-07</lastmod>
-    
-    <changefreq>monthly</changefreq>
-    <priority>0.6</priority>
-  </url>
-  
-  <url>
     <loc>https://www.fomal.cc/personal/bb/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
@@ -101,7 +101,7 @@
   </url>
   
   <url>
-    <loc>https://www.fomal.cc/life/music/index.html</loc>
+    <loc>https://www.fomal.cc/personal/love/index.html</loc>
     
     <lastmod>2023-03-07</lastmod>
     
